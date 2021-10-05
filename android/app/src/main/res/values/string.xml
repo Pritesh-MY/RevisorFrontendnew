@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Revisor</string>
+    <string name="facebook_app_id">219584059987460</string>
+    <string name="fb_login_protocol_scheme">fb219584059987460</string>
+</resources>

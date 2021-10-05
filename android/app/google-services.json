@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229524802689",
+    "project_id": "testrevisor-9457a",
+    "storage_bucket": "testrevisor-9457a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229524802689:android:148d3fd2318a2a79405180",
+        "android_client_info": {
+          "package_name": "com.moreyeahs.revisor.revisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229524802689-pdltqjui12oc5cfv9cb5knsm4ctsafj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moreyeahs.revisor.revisor",
+            "certificate_hash": "10e0aa3f72bcb568f052a0602e249a236724794d"
+          }
+        },
+        {
+          "client_id": "229524802689-32hpsqhk2q0rl8hor3diam21vfklgv0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Andz3taKT3L5PdHu2YHSODuCUTxb46o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229524802689-32hpsqhk2q0rl8hor3diam21vfklgv0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
